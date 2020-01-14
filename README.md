@@ -1,4 +1,6 @@
 
+# [Codejam-Palette](https://karway211.github.io/Codejam-Palette/)
+
 # 1. Install Node.js
 
 # 2. Clone your newly created repo: https://github.com/rolling-scopes-school/karway211-RS2019Q3
